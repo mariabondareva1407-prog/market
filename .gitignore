@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+notes.md
+endpoints.md
+README.md

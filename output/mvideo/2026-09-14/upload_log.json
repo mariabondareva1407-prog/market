@@ -1,0 +1,122 @@
+{
+  "catalog_26673_26-09-14-11.xlsx": {
+    "status": "success",
+    "import_id": 1386,
+    "attempts": 1,
+    "detail": null,
+    "warnings": [],
+    "warnings_truncated": false,
+    "warehouse": "mvideo",
+    "template_file": "catalog_26673_26-09-14-11.xlsx",
+    "updated_at": "2026-09-14T17:18:41",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1386,
+        "attempts": 1,
+        "detail": null,
+        "warnings": [],
+        "warnings_truncated": false,
+        "warehouse": "mvideo",
+        "template_file": "catalog_26673_26-09-14-11.xlsx",
+        "updated_at": "2026-09-14T17:18:41"
+      }
+    ]
+  },
+  "catalog_26721_26-09-14-11.xlsx": {
+    "status": "success",
+    "import_id": 1387,
+    "attempts": 1,
+    "detail": null,
+    "warnings": [],
+    "warnings_truncated": false,
+    "warehouse": "mvideo",
+    "template_file": "catalog_26721_26-09-14-11.xlsx",
+    "updated_at": "2026-09-14T17:18:57",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1387,
+        "attempts": 1,
+        "detail": null,
+        "warnings": [],
+        "warnings_truncated": false,
+        "warehouse": "mvideo",
+        "template_file": "catalog_26721_26-09-14-11.xlsx",
+        "updated_at": "2026-09-14T17:18:57"
+      }
+    ]
+  },
+  "catalog_29865_26-09-14-11.xlsx": {
+    "status": "success",
+    "import_id": 1389,
+    "attempts": 2,
+    "detail": null,
+    "warnings": [],
+    "warnings_truncated": false,
+    "warehouse": "mvideo",
+    "template_file": "catalog_29865_26-09-14-11.xlsx",
+    "updated_at": "2026-09-14T17:19:11",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1389,
+        "attempts": 2,
+        "detail": null,
+        "warnings": [],
+        "warnings_truncated": false,
+        "warehouse": "mvideo",
+        "template_file": "catalog_29865_26-09-14-11.xlsx",
+        "updated_at": "2026-09-14T17:19:11"
+      }
+    ]
+  },
+  "catalog_29923_26-09-14-11.xlsx": {
+    "status": "success",
+    "import_id": 1392,
+    "attempts": 3,
+    "detail": null,
+    "warnings": [],
+    "warnings_truncated": false,
+    "warehouse": "mvideo",
+    "template_file": "catalog_29923_26-09-14-11.xlsx",
+    "updated_at": "2026-09-14T17:19:52",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1392,
+        "attempts": 3,
+        "detail": null,
+        "warnings": [],
+        "warnings_truncated": false,
+        "warehouse": "mvideo",
+        "template_file": "catalog_29923_26-09-14-11.xlsx",
+        "updated_at": "2026-09-14T17:19:52"
+      }
+    ]
+  },
+  "catalog_29957_26-09-14-11.xlsx": {
+    "status": "success",
+    "import_id": 1393,
+    "attempts": 1,
+    "detail": null,
+    "warnings": [],
+    "warnings_truncated": false,
+    "warehouse": "mvideo",
+    "template_file": "catalog_29957_26-09-14-11.xlsx",
+    "updated_at": "2026-09-14T17:20:21",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1393,
+        "attempts": 1,
+        "detail": null,
+        "warnings": [],
+        "warnings_truncated": false,
+        "warehouse": "mvideo",
+        "template_file": "catalog_29957_26-09-14-11.xlsx",
+        "updated_at": "2026-09-14T17:20:21"
+      }
+    ]
+  }
+}

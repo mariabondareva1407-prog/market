@@ -1,0 +1,991 @@
+{
+  "Верт_пылесос_14092026.xlsx": {
+    "status": "success",
+    "import_id": 1376,
+    "attempts": 1,
+    "detail": null,
+    "warnings": [
+      {
+        "id": 47678,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BS [Срок службы, лет] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47677,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BR [Класс опасности товара] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47676,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BQ [Вид насадки пылесоса] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47675,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BP [Количество режимов работы (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47674,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BO [Мощность всасывания, Ватт] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47673,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BN [Напряжение аккумулятора] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47672,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BM [Материал трубки] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47671,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BL [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47670,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BK [Вид пылесоса] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47669,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column BJ [Время зарядки аккумулятора, ч] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47668,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AD [Время работы от аккумулятора, мин] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      },
+      {
+        "id": 47667,
+        "created_at": "2026-09-14T14:09:47.000000Z",
+        "updated_at": "2026-09-14T14:09:47.000000Z",
+        "import_id": 1376,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx"
+      }
+    ],
+    "warnings_truncated": false,
+    "warehouse": "b2c",
+    "template_file": "Верт_пылесос_14092026.xlsx",
+    "updated_at": "2026-09-14T17:10:39",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1376,
+        "attempts": 1,
+        "detail": null,
+        "warnings": [
+          {
+            "id": 47678,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BS [Срок службы, лет] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47677,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BR [Класс опасности товара] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47676,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BQ [Вид насадки пылесоса] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47675,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BP [Количество режимов работы (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47674,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BO [Мощность всасывания, Ватт] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47673,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BN [Напряжение аккумулятора] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47672,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BM [Материал трубки] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47671,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BL [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47670,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BK [Вид пылесоса] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47669,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column BJ [Время зарядки аккумулятора, ч] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47668,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AD [Время работы от аккумулятора, мин] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          },
+          {
+            "id": 47667,
+            "created_at": "2026-09-14T14:09:47.000000Z",
+            "updated_at": "2026-09-14T14:09:47.000000Z",
+            "import_id": 1376,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+            "warehouse": "b2c",
+            "template_file": "Верт_пылесос_14092026.xlsx"
+          }
+        ],
+        "warnings_truncated": false,
+        "warehouse": "b2c",
+        "template_file": "Верт_пылесос_14092026.xlsx",
+        "updated_at": "2026-09-14T17:10:39"
+      }
+    ]
+  },
+  "Весы_14092026.xlsx": {
+    "status": "success",
+    "import_id": 1378,
+    "attempts": 2,
+    "detail": null,
+    "warnings": [
+      {
+        "id": 47686,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AH [Измерения параметров тела (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47685,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AG [Память, кол-во пользователей (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47684,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AF [Точность измерения, г] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47683,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AE [Максимальная нагрузка, килограмм] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47682,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AD [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47681,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AC [Управление со смартфона] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47680,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column S [Питание (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      },
+      {
+        "id": 47679,
+        "created_at": "2026-09-14T14:10:17.000000Z",
+        "updated_at": "2026-09-14T14:10:17.000000Z",
+        "import_id": 1378,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx"
+      }
+    ],
+    "warnings_truncated": false,
+    "warehouse": "b2c",
+    "template_file": "Весы_14092026.xlsx",
+    "updated_at": "2026-09-14T17:11:27",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1378,
+        "attempts": 2,
+        "detail": null,
+        "warnings": [
+          {
+            "id": 47686,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AH [Измерения параметров тела (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47685,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AG [Память, кол-во пользователей (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47684,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AF [Точность измерения, г] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47683,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AE [Максимальная нагрузка, килограмм] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47682,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AD [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47681,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AC [Управление со смартфона] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47680,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column S [Питание (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          },
+          {
+            "id": 47679,
+            "created_at": "2026-09-14T14:10:17.000000Z",
+            "updated_at": "2026-09-14T14:10:17.000000Z",
+            "import_id": 1378,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+            "warehouse": "b2c",
+            "template_file": "Весы_14092026.xlsx"
+          }
+        ],
+        "warnings_truncated": false,
+        "warehouse": "b2c",
+        "template_file": "Весы_14092026.xlsx",
+        "updated_at": "2026-09-14T17:11:27"
+      }
+    ]
+  },
+  "Выпрям_14092026.xlsx": {
+    "status": "success",
+    "import_id": 1384,
+    "attempts": 1,
+    "detail": null,
+    "warnings": [
+      {
+        "id": 47702,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AT [Вид бытовой техники] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      },
+      {
+        "id": 47701,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AS [Насадки для приборов по уходу за волосами] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      },
+      {
+        "id": 47700,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AR [Число температурных режимов] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      },
+      {
+        "id": 47699,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AQ [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      },
+      {
+        "id": 47698,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AP [Режимы] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      },
+      {
+        "id": 47697,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column Q [Особенности (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      },
+      {
+        "id": 47696,
+        "created_at": "2026-09-14T14:14:50.000000Z",
+        "updated_at": "2026-09-14T14:14:50.000000Z",
+        "import_id": 1384,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx"
+      }
+    ],
+    "warnings_truncated": false,
+    "warehouse": "b2c",
+    "template_file": "Выпрям_14092026.xlsx",
+    "updated_at": "2026-09-14T17:15:43",
+    "history": [
+      {
+        "status": "failed",
+        "import_id": 1381,
+        "attempts": 3,
+        "detail": "статус 4 после 3 попыток",
+        "error_hint": null,
+        "raw_response": {
+          "id": 1381,
+          "created_at": "2026-09-14T14:11:04.000000Z",
+          "updated_at": "2026-09-14T14:11:07.000000Z",
+          "type": 1,
+          "status": 4,
+          "file": "/catalog/import/products/67/4e/OkGJCN0DJbQjNjevWhJD.xlsx",
+          "file_name": "OkGJCN0DJbQjNjevWhJD.xlsx",
+          "chunks_count": null,
+          "chunks_finished": 0
+        },
+        "warnings": [],
+        "warnings_truncated": false,
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx",
+        "updated_at": "2026-09-14T17:11:48"
+      },
+      {
+        "status": "success",
+        "import_id": 1384,
+        "attempts": 1,
+        "detail": null,
+        "warnings": [
+          {
+            "id": 47702,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AT [Вид бытовой техники] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          },
+          {
+            "id": 47701,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AS [Насадки для приборов по уходу за волосами] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          },
+          {
+            "id": 47700,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AR [Число температурных режимов] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          },
+          {
+            "id": 47699,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AQ [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          },
+          {
+            "id": 47698,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AP [Режимы] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          },
+          {
+            "id": 47697,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column Q [Особенности (справочник)] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          },
+          {
+            "id": 47696,
+            "created_at": "2026-09-14T14:14:50.000000Z",
+            "updated_at": "2026-09-14T14:14:50.000000Z",
+            "import_id": 1384,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+            "warehouse": "b2c",
+            "template_file": "Выпрям_14092026.xlsx"
+          }
+        ],
+        "warnings_truncated": false,
+        "warehouse": "b2c",
+        "template_file": "Выпрям_14092026.xlsx",
+        "updated_at": "2026-09-14T17:15:43"
+      }
+    ]
+  },
+  "Утюг_14092026.xlsx": {
+    "status": "success",
+    "import_id": 1383,
+    "attempts": 2,
+    "detail": null,
+    "warnings": [
+      {
+        "id": 47695,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AL [Свойства подошвы] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47694,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AK [Подача пара, г/минуту] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47693,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AJ [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47692,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AI [Вертикальное отпаривание] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47691,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AH [Беспроводное использование] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47690,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AG [Мощность, Ватт] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47689,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AF [Паровой удар, г/мин] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47688,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AC [Режимы работы] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      },
+      {
+        "id": 47687,
+        "created_at": "2026-09-14T14:11:26.000000Z",
+        "updated_at": "2026-09-14T14:11:26.000000Z",
+        "import_id": 1383,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx"
+      }
+    ],
+    "warnings_truncated": false,
+    "warehouse": "b2c",
+    "template_file": "Утюг_14092026.xlsx",
+    "updated_at": "2026-09-14T17:12:28",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1383,
+        "attempts": 2,
+        "detail": null,
+        "warnings": [
+          {
+            "id": 47695,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AL [Свойства подошвы] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47694,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AK [Подача пара, г/минуту] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47693,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AJ [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47692,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AI [Вертикальное отпаривание] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47691,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AH [Беспроводное использование] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47690,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AG [Мощность, Ватт] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47689,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AF [Паровой удар, г/мин] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47688,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AC [Режимы работы] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          },
+          {
+            "id": 47687,
+            "created_at": "2026-09-14T14:11:26.000000Z",
+            "updated_at": "2026-09-14T14:11:26.000000Z",
+            "import_id": 1383,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+            "warehouse": "b2c",
+            "template_file": "Утюг_14092026.xlsx"
+          }
+        ],
+        "warnings_truncated": false,
+        "warehouse": "b2c",
+        "template_file": "Утюг_14092026.xlsx",
+        "updated_at": "2026-09-14T17:12:28"
+      }
+    ]
+  },
+  "Чайники_14092026.xlsx": {
+    "status": "success",
+    "import_id": 1385,
+    "attempts": 1,
+    "detail": null,
+    "warnings": [
+      {
+        "id": 47704,
+        "created_at": "2026-09-14T14:15:14.000000Z",
+        "updated_at": "2026-09-14T14:15:14.000000Z",
+        "import_id": 1385,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column AF [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+        "warehouse": "b2c",
+        "template_file": "Чайники_14092026.xlsx"
+      },
+      {
+        "id": 47703,
+        "created_at": "2026-09-14T14:15:14.000000Z",
+        "updated_at": "2026-09-14T14:15:14.000000Z",
+        "import_id": 1385,
+        "vendor_code": null,
+        "import_type": 1,
+        "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+        "warehouse": "b2c",
+        "template_file": "Чайники_14092026.xlsx"
+      }
+    ],
+    "warnings_truncated": false,
+    "warehouse": "b2c",
+    "template_file": "Чайники_14092026.xlsx",
+    "updated_at": "2026-09-14T17:16:25",
+    "history": [
+      {
+        "status": "success",
+        "import_id": 1385,
+        "attempts": 1,
+        "detail": null,
+        "warnings": [
+          {
+            "id": 47704,
+            "created_at": "2026-09-14T14:15:14.000000Z",
+            "updated_at": "2026-09-14T14:15:14.000000Z",
+            "import_id": 1385,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column AF [Размеры, мм] will be ignored: no header mapping was found and no matching category property exists.",
+            "warehouse": "b2c",
+            "template_file": "Чайники_14092026.xlsx"
+          },
+          {
+            "id": 47703,
+            "created_at": "2026-09-14T14:15:14.000000Z",
+            "updated_at": "2026-09-14T14:15:14.000000Z",
+            "import_id": 1385,
+            "vendor_code": null,
+            "import_type": 1,
+            "message": "Column B [Бренд * (справочник)] matched both system field [brand] and category property [Бренд]. It will be imported into both.",
+            "warehouse": "b2c",
+            "template_file": "Чайники_14092026.xlsx"
+          }
+        ],
+        "warnings_truncated": false,
+        "warehouse": "b2c",
+        "template_file": "Чайники_14092026.xlsx",
+        "updated_at": "2026-09-14T17:16:25"
+      }
+    ]
+  }
+}

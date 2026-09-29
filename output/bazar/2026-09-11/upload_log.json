@@ -1,0 +1,247 @@
+{
+  "catalog_26362_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1289,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:09:20"
+  },
+  "catalog_26385_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1291,
+    "attempts": 2,
+    "detail": null,
+    "updated_at": "2026-09-11T23:09:43"
+  },
+  "catalog_26633_26-09-11-23.xlsx": {
+    "status": "failed",
+    "import_id": 1294,
+    "attempts": 3,
+    "detail": "статус 4 после 3 попыток",
+    "updated_at": "2026-09-11T23:09:59"
+  },
+  "catalog_26768_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1295,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:10:14"
+  },
+  "catalog_26823_26-09-11-23.xlsx": {
+    "status": "failed",
+    "import_id": 1298,
+    "attempts": 3,
+    "detail": "статус 4 после 3 попыток",
+    "updated_at": "2026-09-11T23:10:24"
+  },
+  "catalog_26824_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1299,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:10:39"
+  },
+  "catalog_26825_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1300,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:11:05"
+  },
+  "catalog_27113_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1302,
+    "attempts": 2,
+    "detail": null,
+    "updated_at": "2026-09-11T23:12:56"
+  },
+  "catalog_27261_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1303,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:13:43"
+  },
+  "catalog_27552_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1304,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:13:53"
+  },
+  "catalog_27733_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1307,
+    "attempts": 3,
+    "detail": null,
+    "updated_at": "2026-09-11T23:14:47"
+  },
+  "catalog_27939_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1308,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:15:13"
+  },
+  "catalog_28094_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1309,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:15:27"
+  },
+  "catalog_28155_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1310,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:15:48"
+  },
+  "catalog_28170_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1311,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:15:58"
+  },
+  "catalog_28172_26-09-11-23.xlsx": {
+    "status": "failed",
+    "import_id": 1314,
+    "attempts": 3,
+    "detail": "статус 4 после 3 попыток",
+    "updated_at": "2026-09-11T23:16:08"
+  },
+  "catalog_28199_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1317,
+    "attempts": 3,
+    "detail": null,
+    "updated_at": "2026-09-11T23:16:26"
+  },
+  "catalog_28234_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1320,
+    "attempts": 3,
+    "detail": null,
+    "updated_at": "2026-09-11T23:17:26"
+  },
+  "catalog_28240_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1322,
+    "attempts": 2,
+    "detail": null,
+    "updated_at": "2026-09-11T23:18:34"
+  },
+  "catalog_28246_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1323,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:18:59"
+  },
+  "catalog_28249_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1324,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:19:03"
+  },
+  "catalog_28253_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1325,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:19:18"
+  },
+  "catalog_28293_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1326,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:19:33"
+  },
+  "catalog_28316_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1327,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:19:42"
+  },
+  "catalog_28389_26-09-11-23.xlsx": {
+    "status": "failed",
+    "import_id": 1330,
+    "attempts": 3,
+    "detail": "статус 4 после 3 попыток",
+    "updated_at": "2026-09-11T23:19:52"
+  },
+  "catalog_28394_26-09-11-23.xlsx": {
+    "status": "failed",
+    "import_id": 1333,
+    "attempts": 3,
+    "detail": "статус 4 после 3 попыток",
+    "updated_at": "2026-09-11T23:20:08"
+  },
+  "catalog_28424_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1336,
+    "attempts": 3,
+    "detail": null,
+    "updated_at": "2026-09-11T23:20:46"
+  },
+  "catalog_28560_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1337,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:20:55"
+  },
+  "catalog_28785_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1338,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:21:48"
+  },
+  "catalog_29182_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1340,
+    "attempts": 2,
+    "detail": null,
+    "updated_at": "2026-09-11T23:22:28"
+  },
+  "catalog_29192_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1341,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:22:48"
+  },
+  "catalog_29247_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1342,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:23:14"
+  },
+  "catalog_29311_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1343,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:23:34"
+  },
+  "catalog_29399_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1344,
+    "attempts": 1,
+    "detail": null,
+    "updated_at": "2026-09-11T23:23:43"
+  },
+  "catalog_30548_26-09-11-23.xlsx": {
+    "status": "success",
+    "import_id": 1347,
+    "attempts": 3,
+    "detail": null,
+    "updated_at": "2026-09-11T23:25:11"
+  }
+}
